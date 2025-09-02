@@ -21,28 +21,28 @@ The receiver, mounted on the car, uses a matching nRF24L01 radio to receive thes
 
 **Transmitter**
 
-Arduino Nano
+1.Arduino Nano
 
-MPU6050 6-Axis Accelerometer and Gyro Sensor
+2.MPU6050 6-Axis Accelerometer and Gyro Sensor
 
-nRF24L01 radio module
+3.nRF24L01 radio module
 
-Power supply (e.g., 9V battery)
+4.Power supply (e.g., 9V battery)
 
-Jumper wires
+5.Jumper wires
 
 **Receiver**
 
-Arduino Nano
+1.Arduino Nano
 
-L298N Motor Driver Module
+2.L298N Motor Driver Module
 
-nRF24L01 radio module
+3.nRF24L01 radio module
 
-4x DC Motors
+4.Chassis and wheels
 
-Chassis and wheels
+5.4x DC Motors
 
-Power supply (e.g., LiPo battery)
+6.Power supply (e.g., LiPo battery)
 
-Jumper wires
+7.Jumper wires
